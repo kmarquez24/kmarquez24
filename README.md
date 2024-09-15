@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kerwin Rafael Marquez Gonzalez======================================================================================================================================================Web developer Full Stack------------------------Especialista en soluciones de seguridad electrónica, apasionado por el desarrollo de software y en poder brindar soluciones que cambien el mundo como lo conocemos.* 🌍  I'm based in Ecuador* ✉️  You can contact me at [rafael.marquez2409@gmail.com](mailto:rafael.marquez2409@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ##Hola mi nombre es Kerwin Rafael Marquez Gonzalez.  Web developer Full Stack------------------------Especialista en soluciones de seguridad electrónica, apasionado por el desarrollo de software y en poder brindar soluciones que cambien el mundo como lo conocemos.* 🌍  I'm based in Ecuador* ✉️  You can contact me at [rafael.marquez2409@gmail.com](mailto:rafael.marquez2409@gmail.com)
 
 ### Skills
 
