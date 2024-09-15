@@ -1,4 +1,4 @@
-# Hello, I'm Rafael Marquez. full stack web developer - specialist in electronic security and passionate about creating IOT solutions.
+# Hi, I'm Rafael Marquez. full stack web developer - specialist in electronic security and passionate about creating IOT solutions.
 
 ### I currently live in Ecuador - Guayaquil I am proudly from Venezuela.
 
