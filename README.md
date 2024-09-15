@@ -4,7 +4,7 @@
 
 ## In software development I have found my ideas materialized. ✉️  You can contact me at [rafael.marquez2409@gmail.com](mailto:rafael.marquez2409@gmail.com)
 
-## <picture><img src = "" width = 50px></picture> About me
+## <picture><img src = "https://github.com/kmarquez24/kmarquez24/blob/main/about_me.gif" width = 50px></picture> About me
 
 
 
