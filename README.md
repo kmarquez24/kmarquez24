@@ -4,9 +4,9 @@
 
 ## In software development I have found my ideas materialized. ✉️  You can contact me at [rafael.marquez2409@gmail.com](mailto:rafael.marquez2409@gmail.com)
 
-## <picture><img src = "https://github.com/kmarquez24/kmarquez24/blob/main/animation_500_kxa883sd.gif" width = 50px></picture> About me
+## <picture><img src = "" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/kmarquez24/kmarquez24/blob/main/foto-principal.jpeg" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/kmarquez24/kmarquez24/blob/main/animation_500_kxa883sd.gif" width = 250px></picture>
 
 ### Some Skills I have learned along this exciting path.
 
