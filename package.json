@@ -1,0 +1,25 @@
+{
+  "name": "kmarquez24-portfolio",
+  "version": "1.0.0",
+  "description": "Rafael Marquez Full Stack Portfolio - React.js and Node.js demonstration",
+  "scripts": {
+    "install-all": "cd frontend && npm install && cd ../backend && npm install",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm start",
+    "dev": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "fullstack",
+    "portfolio",
+    "javascript"
+  ],
+  "author": "Rafael Marquez <rafael.marquez2409@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
