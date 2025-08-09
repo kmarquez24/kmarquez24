@@ -6,7 +6,26 @@
 
 ## <picture><img src = "https://github.com/kmarquez24/kmarquez24/blob/main/about_me.gif" width = 50px></picture> About me
 
+## 🚀 Featured Projects
 
+This repository now includes working examples of my full-stack development skills:
+
+### 📱 React.js Frontend Application
+- **Location**: `/frontend/`
+- **Technology**: React.js 19, CSS3, JavaScript ES6+
+- **Features**: Responsive design, API integration, modern UI
+- **Demo**: Run `cd frontend && npm install && npm start`
+
+### 🔧 Node.js Backend API
+- **Location**: `/backend/`
+- **Technology**: Node.js, Express.js, REST API
+- **Features**: RESTful endpoints, CORS support, error handling
+- **Demo**: Run `cd backend && npm install && npm start`
+
+### 🔗 Full-Stack Integration
+The frontend React app communicates with the Node.js backend API to demonstrate real-world full-stack development patterns.
+
+---
 
 ### Some Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;I have learned along this exciting path.
 
